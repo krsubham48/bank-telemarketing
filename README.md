@@ -1,2 +1,3 @@
-# bank-telemarketing
-UpGrad Internship Assignment
+# Bank Telemarketing Success Analysis
+
+
