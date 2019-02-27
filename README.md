@@ -13,5 +13,8 @@ All the tasks mentioned above is displayed in `complete.ipynb` file. A pdf versi
 
 ## Instructions to Run
 
-First, clone this repository in your local computer. Then open the terminal or enviornment in which Python3 exists. Type the following command while inside the prompt window: ``pip3 install -r /path/to/requirements.txt``
-This will install all the libraries needed to run this project. Now, type `jupyter notebook` in the command window and browse to the `complete.ipynb` file. Click on the file to open and now run each cell to observe and experiment with the outputs
+First, clone this repository in your local computer.
+Open the terminal or enviornment in which Python3 exists. Type the following command while inside the prompt window: ``pip3 install -r /path/to/requirements.txt``
+This will install all the libraries needed to run this project.
+Now, type `jupyter notebook` in the command window and browse to the `complete.ipynb` file.
+Click on the file to open and now run each cell to observe and experiment with the outputs
