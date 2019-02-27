@@ -6,7 +6,7 @@ The goal here is to reduce the marketing cost and acquire more number of prospec
 <br /><br />
 I first performed a detailed **Data Exploration** using mathematical tools and **visualisation** techniques to get a proper insight about the data. I used those insight to decide important **discriminative features** to perform this **binary classification task**. **Feature engineering** was used on those selected features to make them further separable and useful. Lastly, the classification task was performed using **Support Vector Machine** and **Neural Networks** and the results were compared
 <br /><br />
-All the tasks mentioned above is displayed in `complete.ipynb` file. A pdf version of the same is available as `complete.pdf`. The `Notebooks/` folder contains experimentations with code to complete different sections. All the files is well documented with comments as required for easy and clear understanding. The complete.ipynb file can be opened by clicking on it. The pdf version can be opened the usual way or by clicking [here](). If you wish to run the code yourself, instructions to run the code is provided at the bottom of this page
+All the tasks mentioned above is displayed in `complete.ipynb` file. A pdf version of the same is available as `complete.pdf`. The `Notebooks/` folder contains experimentations with code to complete different sections. All the files is well documented with comments as required for easy and clear understanding. The complete.ipynb file can be opened in this github window by clicking on it. The pdf version can be opened the usual way or by clicking [here](). If you wish to run the code yourself, instructions to run the code is provided at the bottom of this page
 <br /><br />
 **THANK YOU**
 <br /><br />
