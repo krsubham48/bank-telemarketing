@@ -6,7 +6,7 @@ The goal here is to reduce the marketing cost and acquire more number of prospec
 <br /><br />
 I first performed a detailed **Data Exploration** using mathematical tools and **visualisation** techniques to get a proper insight about the data. I used those insight to decide important **discriminative features** to perform this **binary classification task**. **Feature engineering** was used on those selected features to make them further separable and useful. Lastly, the classification task was performed using **Random Forest** and **Neural Networks** and the results were compared
 <br /><br />
-All the tasks mentioned above is displayed in `Notebooks/` folder. A pdf version of the same is available `.pdf` in `Files/` folder. All the files is well documented with comments as required for easy and clear understanding. All the `.ipynb` files can be opened in this github window by clicking on it. The pdf version can be opened the usual way. If you wish to run the code yourself, instructions to run the code is provided at the bottom of this page
+All the tasks mentioned above is displayed in `Home` folder. A pdf version of the same is available `.pdf` in `Files/` folder. All the files is well documented with comments as required for easy and clear understanding. All the `.ipynb` files can be opened in this github window by clicking on it. The pdf version can be opened the usual way. If you wish to run the code yourself, instructions to run the code is provided at the bottom of this page
 
 ## Analysis Results
 
