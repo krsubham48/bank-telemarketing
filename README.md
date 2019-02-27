@@ -11,15 +11,15 @@ All the tasks mentioned above is displayed in `Notebooks/` folder. A pdf version
 ## Analysis Results
 
 • The reponse for term-deposit reponse is positive for an age group ranging roughly between 23-60 years. Customes less than 23yrs of age are mostly unemployed students who does not posses sufficient money to invest. Similarly, people belonging to age group grater than 60 doesnot buy term-deposit having long maturity period. Hence, the next campaign should focus on the said age group more specifically
-<br />
+
 • we see students, self-employed, entrepreuners, unemployed, housemaid and unknowns seems to be broke and cannot afford to buy a term-deposit. On the other hand, technician, blue-collar, management, services, retired and admin have sufficient funds to invest in term-deposit. Again, the conclusion is very distinct here that it is more useful to target subjects that have money to invest these kinds of scheme and products. Already broke people have little chances to buy the product
-<br />
+
 • Divorced seem to have less positive response compared to singles and married. They have a positive aura around that might drive them to buy the product. Also, there might be cases where their future plans and savings might be a major driving factor in decision making
-<br />
+
 • People who are not under any kind of loan repayment burden are more likely to buy term insurance and thus those group of people should be targeted more
-<br />
+
 • We see Day of Week has little effect on term-deposit sell. In contrast, Month shows large variation with sell in May almost four times the sell in March and more than 8 times the sell in Dec. This gives us a clear hint and indication that the sell remain moderate in year start, peaks in the middle and drops significantly towards year end
-<br />
+
 • We observe an interesting pattern in analysing Campaign feature. Most of the subjects who bought the term-deposit made it clear in first few contacts and the number of positive responses fell drastically as the number of contacts increased. Thus we can safely conclude that it is a waste of cost, time and effort to contact the same client multiple times and it is more benefitial to target new customers
 
 • For the subjects already contacted before, the number of sells is max after 2-7 days since last contact. This might be inferred as the time a customer to rethink about a deal and make a deal. As the number of days passed increases after 10 days, the client is less likely to buy the product and thus can be contacted and urged again
