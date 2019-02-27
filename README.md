@@ -24,6 +24,7 @@ All the tasks mentioned above is displayed in `Home` folder. A pdf version of th
 
 • For the subjects already contacted before, the number of sells is max after 2-7 days since last contact. This might be inferred as the time a customer to rethink about a deal and make a deal. As the number of days passed increases after 10 days, the client is less likely to buy the product and thus can be contacted and urged again
 
+• As the university education increases, we see an increase in positive responses. Thus educated people should be contacted more as they are more likely to understand the importance and risk in these terms
 
 ## Instructions to Run
 
