@@ -30,7 +30,7 @@ All the tasks mentioned above is displayed in `Home` folder. A pdf version of th
 
 Random Forest: 88.63% accuracy
 <br />
-SVM: 89.73% accuracy
+SVM: 88.96% accuracy
 
 ## Instructions to Run
 
