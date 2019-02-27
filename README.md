@@ -29,6 +29,7 @@ All the tasks mentioned above is displayed in `Home` folder. A pdf version of th
 ## Prediction Results
 
 Random Forest: 88.63% accuracy
+<br />
 SVM: 89.73% accuracy
 
 ## Instructions to Run
