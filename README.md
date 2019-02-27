@@ -26,6 +26,11 @@ All the tasks mentioned above is displayed in `Home` folder. A pdf version of th
 
 • As the university education increases, we see an increase in positive responses. Thus educated people should be contacted more as they are more likely to understand the importance and risk in these terms
 
+## Prediction Results
+
+Random Forest: 88.63% accuracy
+SVM: 89.73% accuracy
+
 ## Instructions to Run
 
 1. First, clone this repository in your local computer<br />
